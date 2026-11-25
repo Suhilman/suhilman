@@ -21,7 +21,7 @@
 
 <!-- ===================== TECH STACK ===================== -->
 <p align="center">
-  <img src="assets/techstack.svg" width="100%" alt="Tech stack: Flutter, Swift, Next.js, React.js, Vue.js, JavaScript, TypeScript, Laravel, Node.js, Express.js, MongoDB, XAMPP, Docker, SQL, Termius, HTML, PHP, Figma, Photoshop, MUI, Tailwind CSS, Vuetify, PostgreSQL"/>
+  <img src="assets/techstack-icons.svg" width="100%" alt="Tech stack: Flutter, Swift, Next.js, React.js, Vue.js, JavaScript, TypeScript, Laravel, Node.js, Express.js, MongoDB, XAMPP, Docker, SQL, Termius, HTML, PHP, Figma, Photoshop, MUI, Tailwind CSS, Vuetify, PostgreSQL"/>
 </p>
 
 <!-- ===================== PROFILE ===================== -->
