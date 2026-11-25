@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suhilmanartz/"><img src="assets/social/linkedin.svg" height="48" alt="LinkedIn"/></a>
-  <a href="https://glints.com/id/profile/public/d67e46c1-f424-40cf-874d-5190859600c9"><img src="assets/social/glints.svg" height="48" alt="Glints"/></a>
   <a href="https://id.jobstreet.com/id/profile/suhilman-hilman-x2TplXR4x3"><img src="assets/social/jobstreet.svg" height="48" alt="Jobstreet"/></a>
   <a href="https://www.instagram.com/suhilman_fi/"><img src="assets/social/instagram.svg" height="48" alt="Instagram"/></a>
 </p>
