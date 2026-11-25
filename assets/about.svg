@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="631" viewBox="0 0 900 631" role="img" aria-label="About me">
+  <defs>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#a5f3fc" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="rl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
+    <clipPath id="card"><rect width="900" height="631" rx="22"/></clipPath>
+  </defs>
+  <style>
+    .in{animation:in .8s cubic-bezier(.2,.8,.2,1) both}
+    .run{stroke-dasharray:490 2572;animation:run 9s linear infinite}
+    .sw{animation:sw 7s ease-in-out 1.5s infinite}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 2s ease-out infinite}
+    .rail{animation:draw 1.8s cubic-bezier(.2,.8,.2,1) .4s forwards}
+    .spark{opacity:.85;filter:drop-shadow(0 0 4px #a5f3fc)}
+    @keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+    @keyframes run{to{stroke-dashoffset:-3062}}
+    @keyframes sw{0%{transform:translateX(-420px)}60%,100%{transform:translateX(1320px)}}
+    @keyframes ping{0%{transform:scale(1);opacity:.9}100%{transform:scale(2.6);opacity:0}}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    @media (prefers-reduced-motion:reduce){.in,.run,.sw,.ping,.rail{animation:none}.sw,.ping,.spark{display:none}.rail{stroke-dashoffset:0!important}}
+  </style>
+  <g class="in">
+    <foreignObject x="0" y="0" width="900" height="631">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+*{box-sizing:border-box;margin:0;padding:0}
+.frame{width:900px;padding:1.5px;border-radius:22px;background:linear-gradient(135deg,rgba(34,211,238,.55),rgba(139,92,246,.25) 50%,rgba(236,72,153,.5))}
+.root{position:relative;overflow:hidden;border-radius:21px;padding:34px 36px 36px;color:#e2e8f0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;
+  background:radial-gradient(520px 260px at 88% 0%,rgba(34,211,238,.12),transparent 70%),
+  radial-gradient(520px 300px at 0% 100%,rgba(168,85,247,.12),transparent 70%),
+  linear-gradient(135deg,#0b1222,#0d1020 60%,#1a0f24)}
+.root:before{content:"";position:absolute;inset:0;pointer-events:none;
+  background-image:linear-gradient(rgba(148,163,184,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(148,163,184,.05) 1px,transparent 1px);background-size:36px 36px}
+.label{position:relative;display:flex;align-items:center;gap:20px;margin-bottom:26px}
+.line{width:44px;height:2px;border-radius:2px;background:linear-gradient(90deg,#22d3ee,#a855f7);transform-origin:left;animation:draw .8s ease-out both}
+.lt{font:600 13px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:5px;color:#94a3b8}
+.lr{margin-left:auto;font:500 12px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;color:#64748b}
+.grad{background:linear-gradient(90deg,#22d3ee,#8b5cf6,#ec4899,#22d3ee);background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:flow 8s linear infinite}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:500 12px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;color:#a5b4fc;padding:4px 9px;border-radius:7px;background:rgba(139,92,246,.10);border:1px solid rgba(139,92,246,.28)}
+.up{opacity:0;animation:up .7s cubic-bezier(.2,.8,.2,1) forwards}
+.dot{width:9px;height:9px;border-radius:9px;background:#22c55e;box-shadow:0 0 0 0 rgba(34,197,94,.7);animation:ping 2s ease-out infinite;flex:none}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes draw{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes flow{to{background-position:300% 0}}
+@keyframes ping{0%{box-shadow:0 0 0 0 rgba(34,197,94,.6)}100%{box-shadow:0 0 0 9px rgba(34,197,94,0)}}
+/* statis: animasi dikerjakan lapisan SVG */
+*{animation:none!important}.up{opacity:1}
+
+.about{position:relative;display:grid;grid-template-columns:1.55fr 1fr;gap:28px}
+.h{font:800 31px/1.18 -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;letter-spacing:-.5px;margin-bottom:14px}
+.p{font:400 15.5px/1.65 -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;color:#cbd5e1}
+.p b{color:#f1f5f9;font-weight:650}
+.hl{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:22px}
+.hi{padding:14px 15px;border-radius:14px;background:rgba(15,23,42,.7);border:1px solid rgba(51,65,85,.8)}
+.hn{font:700 12px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:2px;margin-bottom:6px}
+.ht{font:650 15px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;color:#f1f5f9;margin-bottom:4px}
+.hd{font:400 13px/1.5 -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;color:#94a3b8}
+.side{display:flex;flex-direction:column;gap:12px}
+.box{padding:16px 18px;border-radius:14px;background:rgba(15,23,42,.72);border:1px solid rgba(51,65,85,.8)}
+.k{font:600 11px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:3px;color:#64748b;margin-bottom:8px}
+.v{font:650 15px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;color:#f1f5f9}
+.s{font:400 13px/1.5 -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;color:#94a3b8;margin-top:2px}
+.row{display:flex;align-items:center;gap:10px}
+.edu + .edu{margin-top:10px}
+.lang{display:flex;justify-content:space-between;font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;color:#e2e8f0}
+.lang span:last-child{font:500 12px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;color:#64748b}
+.lang + .lang{margin-top:6px}
+.frame{height:631px}.root{height:100%}</style>
+        <div class="frame"><div class="root">
+<div class="label"><span class="line"></span><span class="lt">ABOUT ME</span><span class="lr">Bogor, Indonesia</span></div>
+<div class="about">
+  <div>
+    <div class="h up" style="animation-delay:.1s">Building digital products<br/><span class="grad">people use every day.</span></div>
+    <div class="p up" style="animation-delay:.25s">Application Developer with <b>5+ years</b> of experience shipping products across
+      <b>satellite telecommunications, POS, CRM</b> and internal platforms. I care about clean UI, reliable data flows,
+      and dashboards that operations teams can trust <b>24/7</b>.</div>
+    <div class="hl">
+      <div class="hi up" style="animation-delay:0.40s">
+        <div class="hn grad">01</div><div class="ht">Satellite NMS</div><div class="hd">Led UI/UX &amp; development of the Network Monitoring System used daily by BAKTI KOMINFO for the SATRIA-1 HUB.</div></div><div class="hi up" style="animation-delay:0.52s">
+        <div class="hn grad">02</div><div class="ht">Frontend specialist</div><div class="hd">React, Next.js, Vue.js &amp; Flutter — dashboards, back-offices and mobile apps.</div></div><div class="hi up" style="animation-delay:0.64s">
+        <div class="hn grad">03</div><div class="ht">Full-stack Dart</div><div class="hd">Current focus: Flutter + Frog + PostgreSQL, end to end.</div></div><div class="hi up" style="animation-delay:0.76s">
+        <div class="hn grad">04</div><div class="ht">AI &amp; real-time</div><div class="hd">Enterprise AI assistant and WebSocket apps with offline cache &amp; push.</div></div>
+    </div>
+  </div>
+  <div class="side">
+    <div class="box up" style="animation-delay:.35s">
+      <div class="k">CURRENTLY</div>
+      <div class="v">Front End Developer</div>
+      <div class="s">PT. BIS Data Indonesia · Jakarta</div>
+      <div class="row" style="margin-top:12px"><span class="dot"></span><span style="font:600 13px -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;color:#86efac">Open to freelance &amp; collaboration</span></div>
+    </div>
+    <div class="box up" style="animation-delay:.5s">
+      <div class="k">EDUCATION</div>
+      <div class="edu"><div class="v">Pakuan University</div><div class="s">Computer Science · 2017 – 2024</div></div>
+      <div class="edu"><div class="v">SMK Wikrama Bogor</div><div class="s">Software Engineering · 2014 – 2017</div></div>
+    </div>
+    <div class="box up" style="animation-delay:.65s">
+      <div class="k">LANGUAGES</div>
+      <div class="lang"><span>Indonesian</span><span>Native</span></div>
+      <div class="lang"><span>English</span><span>Professional</span></div>
+    </div>
+  </div>
+</div>
+</div></div>
+      </div>
+    </foreignObject>
+    
+    <circle cx="573.4" cy="172.5" r="4.5" fill="none" stroke="#22c55e" stroke-width="2" class="ping" style="animation-delay:0.00s"/>
+    <g clip-path="url(#card)"><rect class="sw" x="-400" y="0" width="400" height="631" fill="url(#sh)"/></g>
+    <rect class="run" x="1" y="1" width="898" height="629" rx="21" fill="none" stroke="url(#bd)" stroke-width="2"/>
+  </g>
+</svg>

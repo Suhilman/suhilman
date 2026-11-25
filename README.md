@@ -1,12 +1,12 @@
 <!-- ===================== HERO 3D (Remotion + Three.js) ===================== -->
 <p align="center">
   <a href="https://suhilman.github.io/SUHILMANartz/">
-    <img src="assets/hero.webp" width="100%" alt="SUHILMAN — Application Developer · Full-Stack Dart. Globe 3D dengan satelit mengorbit, dan QR code ke portfolio."/>
+    <img src="assets/hero.webp" width="100%" alt="SUHILMAN — Application Developer · Full-Stack Dart. 3D globe with an orbiting satellite and a QR code to the portfolio."/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/suhilman"><img src="assets/social/linkedin.svg" height="48" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/suhilmanartz/"><img src="assets/social/linkedin.svg" height="48" alt="LinkedIn"/></a>
   <a href="https://glints.com/id/profile/public/d67e46c1-f424-40cf-874d-5190859600c9"><img src="assets/social/glints.svg" height="48" alt="Glints"/></a>
   <a href="https://id.jobstreet.com/id/profile/suhilman-hilman-x2TplXR4x3"><img src="assets/social/jobstreet.svg" height="48" alt="Jobstreet"/></a>
   <a href="https://www.instagram.com/suhilman_fi/"><img src="assets/social/instagram.svg" height="48" alt="Instagram"/></a>
@@ -24,138 +24,22 @@
   <img src="assets/techstack-icons.svg" width="100%" alt="Tech stack: Flutter, Swift, Next.js, React.js, Vue.js, JavaScript, TypeScript, Laravel, Node.js, Express.js, MongoDB, XAMPP, Docker, SQL, Termius, HTML, PHP, Figma, Photoshop, MUI, Tailwind CSS, Vuetify, PostgreSQL"/>
 </p>
 
-<!-- ===================== PROFILE ===================== -->
-### Tentang Saya
-
-**Application Developer** dengan pengalaman **5+ tahun** membangun produk digital di bidang **telekomunikasi satelit, POS, CRM**, dan platform internal.
-
-- Memimpin UI/UX & pengembangan **Network Monitoring System** yang dipakai harian oleh tim **BAKTI KOMINFO** untuk SATRIA-1 satellite HUB
-- Spesialis **React, Next.js, Vue.js & Flutter**
-- Fokus saat ini: **full-stack Dart** (Flutter + Frog + PostgreSQL)
-- Membangun asisten AI enterprise & aplikasi real-time (WebSocket)
-- Computer Science, **Universitas Pakuan**
+<!-- ===================== ABOUT ===================== -->
+<p align="center">
+  <img src="assets/about.svg" width="100%" alt="About me — Application Developer with 5+ years of experience shipping products across satellite telecommunications, POS, CRM and internal platforms. Led UI/UX and development of the Network Monitoring System used daily by BAKTI KOMINFO for the SATRIA-1 HUB. Frontend specialist in React, Next.js, Vue.js and Flutter; currently focused on full-stack Dart (Flutter, Frog, PostgreSQL). Currently Front End Developer at PT. BIS Data Indonesia. Computer Science, Pakuan University."/>
+</p>
 
 <!-- ===================== EXPERIENCE ===================== -->
-### Pengalaman
-
-| Periode | Perusahaan | Peran |
-|:--|:--|:--|
-| `08/2023 — sekarang` | **PT. BIS Data Indonesia** · Jakarta | Front End Developer — NMS satelit BAKTI KOMINFO, HR platform, AI assistant |
-| `08/2021 — 08/2023` | **PT. Life Tech Tanpa Batas** · Bandung | Front End Developer — BeetPOS, BeetClinic, CRM MRT |
-| `12/2020 — 03/2021` | **Cave Laundry** · Bogor | Full Stack Developer — aplikasi kasir + real-time chat |
+<p align="center">
+  <img src="assets/experience.svg" width="100%" alt="Experience — PT. BIS Data Indonesia, Front End Developer (08/2023 – present, Jakarta); PT. Life Tech Tanpa Batas, Front End Developer (08/2021 – 08/2023, Bandung); Cave Laundry, Full Stack Developer (12/2020 – 03/2021, Bogor)."/>
+</p>
 
 <!-- ===================== FEATURED WORK ===================== -->
-### Featured Work
+<p align="center">
+  <img src="assets/projects.svg" width="100%" alt="Featured work — NADIA network monitoring system, VIONA multi-HUB NMS, Benggala procurement monitoring, ELARA enterprise AI assistant, ARTZ HR, BDI Chat, BeetPOS, CRM MRT, LOOKUP IP."/>
+</p>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-![LIVE](https://img.shields.io/badge/LIVE-16a34a?style=flat-square)<br/>
-**NADIA** — Network Monitoring System<br/>
-<sub>SATRIA-1 HUB · BAKTI · 2024</sub>
-
-Dashboard monitoring satellite HUB Jayapura; integrasi FortiGate, Huawei Core Switch & HPE ProLiant.
-
-`Next.js` `MUI` `REST` `JWT`
-
-</td>
-<td width="33%" valign="top">
-
-![LIVE](https://img.shields.io/badge/LIVE-16a34a?style=flat-square)<br/>
-**VIONA** — Multi-HUB NMS<br/>
-<sub>Jayapura · Manokwari · Timika</sub>
-
-Monitoring 3 satellite HUB: topologi berbasis peta, alert routing, status perangkat terpadu.
-
-`Next.js` `Google Maps` `AWS`
-
-</td>
-<td width="33%" valign="top">
-
-![LIVE](https://img.shields.io/badge/LIVE-16a34a?style=flat-square)<br/>
-**Benggala** — Procurement Monitoring<br/>
-<sub>LKPP · BIS Data · 2026</sub>
-
-Dashboard real-time metode tender & alokasi anggaran lembaga pengadaan nasional.
-
-`Next.js` `Dashboard` `REST`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-![INTERNAL](https://img.shields.io/badge/INTERNAL-0891b2?style=flat-square)<br/>
-**ELARA** — Enterprise AI Assistant<br/>
-<sub>BIS Data · 2025</sub>
-
-Asisten AI untuk reasoning, drafting, planning & Q&A atas dokumen, sheet, dan slide.
-
-`Next.js` `AI Chat` `Markdown`
-
-</td>
-<td valign="top">
-
-![INTERNAL](https://img.shields.io/badge/INTERNAL-0891b2?style=flat-square)<br/>
-**ARTZ HR** — Full-Stack Dart<br/>
-<sub>BIS Data · 2024</sub>
-
-Platform HR end-to-end: absensi, payroll, cuti, RBAC & audit log; mobile-first.
-
-`Flutter` `Frog` `Dart` `PostgreSQL`
-
-</td>
-<td valign="top">
-
-![INTERNAL](https://img.shields.io/badge/INTERNAL-0891b2?style=flat-square)<br/>
-**BDI Chat** — Messaging + AI<br/>
-<sub>BIS Data · 2024</sub>
-
-Chat real-time via WebSocket, full-text search, push notification & offline cache.
-
-`Flutter` `Frog` `WebSocket` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-![SHIPPED](https://img.shields.io/badge/SHIPPED-64748b?style=flat-square)<br/>
-**BeetPOS** — POS & Back-Office<br/>
-<sub>Life Tech · 2021–2023</sub>
-
-POS multi-tenant untuk retail & klinik; sinkron Tokopedia & Shopee, pembayaran QRIS.
-
-`React` `Vue.js` `Vuetify` `Figma`
-
-</td>
-<td valign="top">
-
-![SHIPPED](https://img.shields.io/badge/SHIPPED-64748b?style=flat-square)<br/>
-**CRM MRT** — Customer Relationship Mgmt<br/>
-<sub>Life Tech · 2021–2023</sub>
-
-CRM dari nol: integrasi pembayaran, dashboard berbasis role, timeline aktivitas pelanggan.
-
-`Vue.js` `Vuetify` `REST API`
-
-</td>
-<td valign="top">
-
-![INTERNAL](https://img.shields.io/badge/INTERNAL-0891b2?style=flat-square)<br/>
-**LOOKUP IP** — Internal Tools<br/>
-<sub>BIS Data · 2024</sub>
-
-Pelacak IP, geolokasi & data jaringan perangkat; maintenance infrastruktur AWS.
-
-`React` `Node.js` `AWS` `Maps API`
-
-</td>
-</tr>
-</table>
-
-<p align="center"><sub><b>10+ proyek lainnya</b> di balik layar — lihat <a href="https://suhilman.github.io/SUHILMANartz">portfolio</a></sub></p>
+<p align="center"><sub><b>10+ more projects</b> behind the scenes — see the <a href="https://suhilman.github.io/SUHILMANartz/">portfolio</a></sub></p>
 
 <!-- ===================== SKILLS ===================== -->
 ### Core Skills
@@ -192,16 +76,16 @@ Pelacak IP, geolokasi & data jaringan perangkat; maintenance infrastruktur AWS.
 <tr>
 <td width="55%" valign="middle">
 
-Terbuka untuk **freelance**, **product roles** & **kolaborasi**.
+Open to **freelance**, **product roles** & **collaboration**.
 
-Scan QR di samping atau klik tombol di bawah untuk melihat **portfolio lengkap**, featured work, dan kontak.
+Scan the QR code or use the buttons below to see the **full portfolio**, featured work and contact details.
 
-<a href="https://suhilman.github.io/SUHILMANartz/"><img src="https://img.shields.io/badge/Lihat%20Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/suhilman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://suhilman.github.io/SUHILMANartz/"><img src="https://img.shields.io/badge/View%20Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/suhilmanartz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </td>
 <td width="45%" align="center">
-  <a href="https://suhilman.github.io/SUHILMANartz/"><img src="assets/qr.svg" width="300" alt="QR code ke https://suhilman.github.io/SUHILMANartz/"/></a>
+  <a href="https://suhilman.github.io/SUHILMANartz/"><img src="assets/qr.svg" width="300" alt="QR code to https://suhilman.github.io/SUHILMANartz/"/></a>
 </td>
 </tr>
 </table>
