@@ -1,13 +1,3 @@
-### Hi there 👋
-
-<!--
-**Suhilman/suhilman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate o<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:8b5cf6,100:ec4899&height=230&section=header&text=SUHILMAN&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Application%20Developer%20%C2%B7%20Full-Stack%20Dart&descAlignY=58&descSize=20" width="100%" alt="Suhilman — Application Developer"/>
 </p>
