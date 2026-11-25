@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="336" viewBox="0 0 840 336" role="img" aria-label="Core skills">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset=".6" stop-color="#8b5cf6"/><stop offset="1" stop-color="#d946ef"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .row{opacity:0;animation:fade .5s ease-out forwards}
+    .name{font:600 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8b949e}
+    .pct{font:600 12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#a855f7;opacity:0;animation:fade .4s ease-out forwards}
+    .bar{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1.2s cubic-bezier(.2,.8,.2,1) forwards}
+    .dot{opacity:0;transform-box:fill-box;transform-origin:center;animation:fade .3s forwards,pulse 2.4s ease-in-out infinite}
+    @keyframes fade{to{opacity:1}}
+    @keyframes grow{to{transform:scaleX(1)}}
+    @keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.35)}}
+    @media (prefers-reduced-motion:reduce){.row,.pct,.dot{animation:none;opacity:1}.bar{animation:none;transform:none}}
+  </style>
+  <g class="row" style="animation-delay:0.20s">
+    <text x="0" y="34" class="name">React / Next.js / Vue.js</text>
+    <text x="840" y="34" class="pct" text-anchor="end" style="animation-delay:1.10s">90%</text>
+    <rect x="0" y="44" width="840" height="8" rx="4" fill="#1e293b"/>
+    <rect class="bar" x="0" y="44" width="756" height="8" rx="4" fill="url(#b)" style="animation-delay:0.20s"/>
+    <circle class="dot" cx="752" cy="48" r="5" fill="#fff" style="animation-delay:1.30s"/>
+  </g>
+  <g class="row" style="animation-delay:0.35s">
+    <text x="0" y="86" class="name">Dart / Flutter / Frog</text>
+    <text x="840" y="86" class="pct" text-anchor="end" style="animation-delay:1.25s">80%</text>
+    <rect x="0" y="96" width="840" height="8" rx="4" fill="#1e293b"/>
+    <rect class="bar" x="0" y="96" width="672" height="8" rx="4" fill="url(#b)" style="animation-delay:0.35s"/>
+    <circle class="dot" cx="668" cy="100" r="5" fill="#fff" style="animation-delay:1.45s"/>
+  </g>
+  <g class="row" style="animation-delay:0.50s">
+    <text x="0" y="138" class="name">PostgreSQL / MySQL / MongoDB</text>
+    <text x="840" y="138" class="pct" text-anchor="end" style="animation-delay:1.40s">78%</text>
+    <rect x="0" y="148" width="840" height="8" rx="4" fill="#1e293b"/>
+    <rect class="bar" x="0" y="148" width="655" height="8" rx="4" fill="url(#b)" style="animation-delay:0.50s"/>
+    <circle class="dot" cx="651" cy="152" r="5" fill="#fff" style="animation-delay:1.60s"/>
+  </g>
+  <g class="row" style="animation-delay:0.65s">
+    <text x="0" y="190" class="name">UI/UX Design (Figma)</text>
+    <text x="840" y="190" class="pct" text-anchor="end" style="animation-delay:1.55s">75%</text>
+    <rect x="0" y="200" width="840" height="8" rx="4" fill="#1e293b"/>
+    <rect class="bar" x="0" y="200" width="630" height="8" rx="4" fill="url(#b)" style="animation-delay:0.65s"/>
+    <circle class="dot" cx="626" cy="204" r="5" fill="#fff" style="animation-delay:1.75s"/>
+  </g>
+  <g class="row" style="animation-delay:0.80s">
+    <text x="0" y="242" class="name">Laravel / Node.js / PHP</text>
+    <text x="840" y="242" class="pct" text-anchor="end" style="animation-delay:1.70s">65%</text>
+    <rect x="0" y="252" width="840" height="8" rx="4" fill="#1e293b"/>
+    <rect class="bar" x="0" y="252" width="546" height="8" rx="4" fill="url(#b)" style="animation-delay:0.80s"/>
+    <circle class="dot" cx="542" cy="256" r="5" fill="#fff" style="animation-delay:1.90s"/>
+  </g>
+  <g class="row" style="animation-delay:0.95s">
+    <text x="0" y="294" class="name">Swift / React Native</text>
+    <text x="840" y="294" class="pct" text-anchor="end" style="animation-delay:1.85s">60%</text>
+    <rect x="0" y="304" width="840" height="8" rx="4" fill="#1e293b"/>
+    <rect class="bar" x="0" y="304" width="504" height="8" rx="4" fill="url(#b)" style="animation-delay:0.95s"/>
+    <circle class="dot" cx="500" cy="308" r="5" fill="#fff" style="animation-delay:2.05s"/>
+  </g>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="120" viewBox="0 0 840 120" role="img" aria-label="5+ years experience, 10+ projects shipped, 3 industries served, 24/7 used in production">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .card{opacity:0;animation:up .7s cubic-bezier(.2,.8,.2,1) forwards}
+    .c2{animation-delay:.15s}.c3{animation-delay:.3s}.c4{animation-delay:.45s}
+    .num{font:700 34px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:url(#t)}
+    .lbl{font:600 11px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:2px;fill:#94a3b8}
+    .shine{animation:sweep 4s ease-in-out 1.2s infinite}
+    @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes sweep{0%{transform:translateX(-220px)}60%,100%{transform:translateX(220px)}}
+    @media (prefers-reduced-motion:reduce){.card{animation:none;opacity:1}.shine{animation:none;opacity:0}}
+  </style>
+
+  <g class="card c1" transform="translate(0 0)">
+    <g transform="translate(0 10)">
+      <rect width="198" height="96" rx="10" fill="#0f172a" stroke="#1e293b"/>
+      <clipPath id="k1"><rect width="198" height="96" rx="10"/></clipPath>
+      <rect class="shine" clip-path="url(#k1)" width="198" height="96" fill="url(#shine)"/>
+      <rect x="0" y="12" width="4" height="72" rx="2" fill="url(#g)"/>
+      <text x="22" y="52" class="num">5+</text>
+      <text x="22" y="76" class="lbl">YEARS EXPERIENCE</text>
+    </g>
+  </g>
+  <g class="card c2">
+    <g transform="translate(214 10)">
+      <rect width="198" height="96" rx="10" fill="#0f172a" stroke="#1e293b"/>
+      <clipPath id="k2"><rect width="198" height="96" rx="10"/></clipPath>
+      <rect class="shine" clip-path="url(#k2)" width="198" height="96" fill="url(#shine)"/>
+      <rect x="0" y="12" width="4" height="72" rx="2" fill="url(#g)"/>
+      <text x="22" y="52" class="num">10+</text>
+      <text x="22" y="76" class="lbl">PROJECTS SHIPPED</text>
+    </g>
+  </g>
+  <g class="card c3">
+    <g transform="translate(428 10)">
+      <rect width="198" height="96" rx="10" fill="#0f172a" stroke="#1e293b"/>
+      <clipPath id="k3"><rect width="198" height="96" rx="10"/></clipPath>
+      <rect class="shine" clip-path="url(#k3)" width="198" height="96" fill="url(#shine)"/>
+      <rect x="0" y="12" width="4" height="72" rx="2" fill="url(#g)"/>
+      <text x="22" y="52" class="num">3</text>
+      <text x="22" y="76" class="lbl">INDUSTRIES SERVED</text>
+    </g>
+  </g>
+  <g class="card c4">
+    <g transform="translate(642 10)">
+      <rect width="198" height="96" rx="10" fill="#0f172a" stroke="#1e293b"/>
+      <clipPath id="k4"><rect width="198" height="96" rx="10"/></clipPath>
+      <rect class="shine" clip-path="url(#k4)" width="198" height="96" fill="url(#shine)"/>
+      <rect x="0" y="12" width="4" height="72" rx="2" fill="url(#g)"/>
+      <text x="22" y="52" class="num">24/7</text>
+      <text x="22" y="76" class="lbl">USED IN PRODUCTION</text>
+    </g>
+  </g>
+</svg>

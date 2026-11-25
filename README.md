@@ -1,15 +1,8 @@
+<!-- ===================== HERO 3D (Remotion + Three.js) ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:8b5cf6,100:ec4899&height=230&section=header&text=SUHILMAN&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Application%20Developer%20%C2%B7%20Full-Stack%20Dart&descAlignY=58&descSize=20" width="100%" alt="Suhilman — Application Developer"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Suhilman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=640&lines=Halo!+Saya+Suhilman+%F0%9F%91%8B;Front+End+Developer+%40+PT.+BIS+Data+Indonesia;5%2B+tahun+membangun+produk+digital;React+%E2%80%A2+Next.js+%E2%80%A2+Vue.js+%E2%80%A2+Flutter;Full-Stack+Dart%3A+Flutter+%2B+Frog+%2B+PostgreSQL;Terbuka+untuk+freelance+%26+kolaborasi+%F0%9F%A4%9D" alt="Typing SVG"/>
+  <a href="https://suhilman.github.io/SUHILMANartz/">
+    <img src="assets/hero.webp" width="100%" alt="SUHILMAN — Application Developer · Full-Stack Dart. Globe 3D dengan satelit mengorbit, dan QR code ke portfolio."/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/●%20Available%20for%20new%20projects-0f172a?style=for-the-badge&logoColor=white&labelColor=0f172a&color=16a34a" alt="Available"/>
 </p>
 
 <p align="center">
@@ -210,20 +203,27 @@ Pelacak IP, geolokasi & data jaringan perangkat; maintenance infrastruktur AWS.
   </picture>
 </p>
 
-<!-- ===================== CONTACT / FOOTER ===================== -->
-<p align="center">
-  <b>Let's build something.</b><br/>
-  <sub>Terbuka untuk freelance, product roles & kolaborasi</sub><br/><br/>
-  <a href="https://linkedin.com/in/suhilman"><img src="https://img.shields.io/badge/Hubungi%20via%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+<!-- ===================== CONTACT / QR ===================== -->
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="26"/> Let's build something
+
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+Terbuka untuk **freelance**, **product roles** & **kolaborasi**.
+
+Scan QR di samping atau klik tombol di bawah untuk melihat **portfolio lengkap**, featured work, dan kontak.
+
+<a href="https://suhilman.github.io/SUHILMANartz/"><img src="https://img.shields.io/badge/Lihat%20Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/suhilman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+</td>
+<td width="45%" align="center">
+  <a href="https://suhilman.github.io/SUHILMANartz/"><img src="assets/qr.svg" width="300" alt="QR code ke https://suhilman.github.io/SUHILMANartz/"/></a>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:22d3ee&height=120&section=footer" width="100%" alt="footer"/>
 </p>
-n ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
