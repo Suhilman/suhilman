@@ -12,12 +12,6 @@
   <a href="https://www.instagram.com/suhilman_fi/"><img src="assets/social/instagram.svg" height="48" alt="Instagram"/></a>
 </p>
 
-<p align="center">
-  <a href="https://suhilman.github.io/SUHILMANartz/"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://x.com/suhilman_fi"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <img src="https://img.shields.io/badge/Bogor,%20Indonesia-1e293b?style=flat-square" alt="Bogor, Indonesia"/>
-  <img src="https://komarev.com/ghpvc/?username=Suhilman&label=views&color=a855f7&style=flat-square" alt="profile views"/>
-</p>
 
 <p align="center">
   <img src="assets/stats.svg" width="100%" alt="5+ years experience · 10+ projects shipped · 3 industries · 24/7 in production"/>
