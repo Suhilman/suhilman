@@ -6,10 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="https://suhilman.github.io/SUHILMANartz"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/suhilman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/suhilman"><img src="assets/social/linkedin.svg" height="48" alt="LinkedIn"/></a>
+  <a href="https://glints.com/id/profile/public/d67e46c1-f424-40cf-874d-5190859600c9"><img src="assets/social/glints.svg" height="48" alt="Glints"/></a>
+  <a href="https://id.jobstreet.com/id/profile/suhilman-hilman-x2TplXR4x3"><img src="assets/social/jobstreet.svg" height="48" alt="Jobstreet"/></a>
+  <a href="https://www.instagram.com/suhilman_fi/"><img src="assets/social/instagram.svg" height="48" alt="Instagram"/></a>
+</p>
+
+<p align="center">
+  <a href="https://suhilman.github.io/SUHILMANartz/"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://x.com/suhilman_fi"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <img src="https://img.shields.io/badge/📍%20Bogor,%20Indonesia-1e293b?style=flat-square" alt="Bogor, Indonesia"/>
+  <img src="https://img.shields.io/badge/Bogor,%20Indonesia-1e293b?style=flat-square" alt="Bogor, Indonesia"/>
   <img src="https://komarev.com/ghpvc/?username=Suhilman&label=views&color=a855f7&style=flat-square" alt="profile views"/>
 </p>
 
@@ -19,32 +25,24 @@
 
 ---
 
-<!-- ===================== PROFILE ===================== -->
-<table>
-<tr>
-<td width="62%" valign="top">
+<!-- ===================== TECH STACK ===================== -->
+<p align="center">
+  <img src="assets/techstack.svg" width="100%" alt="Tech stack: Flutter, Swift, Next.js, React.js, Vue.js, JavaScript, TypeScript, Laravel, Node.js, Express.js, MongoDB, XAMPP, Docker, SQL, Termius, HTML, PHP, Figma, Photoshop, MUI, Tailwind CSS, Vuetify, PostgreSQL"/>
+</p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28"/> Tentang Saya
+<!-- ===================== PROFILE ===================== -->
+### Tentang Saya
 
 **Application Developer** dengan pengalaman **5+ tahun** membangun produk digital di bidang **telekomunikasi satelit, POS, CRM**, dan platform internal.
 
-- 🛰️ Memimpin UI/UX & pengembangan **Network Monitoring System** yang dipakai harian oleh tim **BAKTI KOMINFO** untuk SATRIA-1 satellite HUB
-- ⚛️ Spesialis **React, Next.js, Vue.js & Flutter**
-- 🎯 Fokus saat ini: **full-stack Dart** (Flutter + Frog + PostgreSQL)
-- 🤖 Membangun asisten AI enterprise & aplikasi real-time (WebSocket)
-- 🎓 Computer Science, **Universitas Pakuan**
-
-</td>
-<td width="38%" align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" width="120" alt="satellite"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="90" alt="laptop"/>
-</td>
-</tr>
-</table>
+- Memimpin UI/UX & pengembangan **Network Monitoring System** yang dipakai harian oleh tim **BAKTI KOMINFO** untuk SATRIA-1 satellite HUB
+- Spesialis **React, Next.js, Vue.js & Flutter**
+- Fokus saat ini: **full-stack Dart** (Flutter + Frog + PostgreSQL)
+- Membangun asisten AI enterprise & aplikasi real-time (WebSocket)
+- Computer Science, **Universitas Pakuan**
 
 <!-- ===================== EXPERIENCE ===================== -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="26"/> Pengalaman
+### Pengalaman
 
 | Periode | Perusahaan | Peran |
 |:--|:--|:--|
@@ -53,14 +51,14 @@
 | `12/2020 — 03/2021` | **Cave Laundry** · Bogor | Full Stack Developer — aplikasi kasir + real-time chat |
 
 <!-- ===================== FEATURED WORK ===================== -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="26"/> Featured Work
+### Featured Work
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ![LIVE](https://img.shields.io/badge/LIVE-16a34a?style=flat-square)<br/>
-**🛰️ NADIA** — Network Monitoring System<br/>
+**NADIA** — Network Monitoring System<br/>
 <sub>SATRIA-1 HUB · BAKTI · 2024</sub>
 
 Dashboard monitoring satellite HUB Jayapura; integrasi FortiGate, Huawei Core Switch & HPE ProLiant.
@@ -71,7 +69,7 @@ Dashboard monitoring satellite HUB Jayapura; integrasi FortiGate, Huawei Core Sw
 <td width="33%" valign="top">
 
 ![LIVE](https://img.shields.io/badge/LIVE-16a34a?style=flat-square)<br/>
-**🌐 VIONA** — Multi-HUB NMS<br/>
+**VIONA** — Multi-HUB NMS<br/>
 <sub>Jayapura · Manokwari · Timika</sub>
 
 Monitoring 3 satellite HUB: topologi berbasis peta, alert routing, status perangkat terpadu.
@@ -82,7 +80,7 @@ Monitoring 3 satellite HUB: topologi berbasis peta, alert routing, status perang
 <td width="33%" valign="top">
 
 ![LIVE](https://img.shields.io/badge/LIVE-16a34a?style=flat-square)<br/>
-**📊 Benggala** — Procurement Monitoring<br/>
+**Benggala** — Procurement Monitoring<br/>
 <sub>LKPP · BIS Data · 2026</sub>
 
 Dashboard real-time metode tender & alokasi anggaran lembaga pengadaan nasional.
@@ -95,7 +93,7 @@ Dashboard real-time metode tender & alokasi anggaran lembaga pengadaan nasional.
 <td valign="top">
 
 ![INTERNAL](https://img.shields.io/badge/INTERNAL-0891b2?style=flat-square)<br/>
-**🤖 ELARA** — Enterprise AI Assistant<br/>
+**ELARA** — Enterprise AI Assistant<br/>
 <sub>BIS Data · 2025</sub>
 
 Asisten AI untuk reasoning, drafting, planning & Q&A atas dokumen, sheet, dan slide.
@@ -106,7 +104,7 @@ Asisten AI untuk reasoning, drafting, planning & Q&A atas dokumen, sheet, dan sl
 <td valign="top">
 
 ![INTERNAL](https://img.shields.io/badge/INTERNAL-0891b2?style=flat-square)<br/>
-**👥 ARTZ HR** — Full-Stack Dart<br/>
+**ARTZ HR** — Full-Stack Dart<br/>
 <sub>BIS Data · 2024</sub>
 
 Platform HR end-to-end: absensi, payroll, cuti, RBAC & audit log; mobile-first.
@@ -117,7 +115,7 @@ Platform HR end-to-end: absensi, payroll, cuti, RBAC & audit log; mobile-first.
 <td valign="top">
 
 ![INTERNAL](https://img.shields.io/badge/INTERNAL-0891b2?style=flat-square)<br/>
-**💬 BDI Chat** — Messaging + AI<br/>
+**BDI Chat** — Messaging + AI<br/>
 <sub>BIS Data · 2024</sub>
 
 Chat real-time via WebSocket, full-text search, push notification & offline cache.
@@ -130,7 +128,7 @@ Chat real-time via WebSocket, full-text search, push notification & offline cach
 <td valign="top">
 
 ![SHIPPED](https://img.shields.io/badge/SHIPPED-64748b?style=flat-square)<br/>
-**🧾 BeetPOS** — POS & Back-Office<br/>
+**BeetPOS** — POS & Back-Office<br/>
 <sub>Life Tech · 2021–2023</sub>
 
 POS multi-tenant untuk retail & klinik; sinkron Tokopedia & Shopee, pembayaran QRIS.
@@ -141,7 +139,7 @@ POS multi-tenant untuk retail & klinik; sinkron Tokopedia & Shopee, pembayaran Q
 <td valign="top">
 
 ![SHIPPED](https://img.shields.io/badge/SHIPPED-64748b?style=flat-square)<br/>
-**🤝 CRM MRT** — Customer Relationship Mgmt<br/>
+**CRM MRT** — Customer Relationship Mgmt<br/>
 <sub>Life Tech · 2021–2023</sub>
 
 CRM dari nol: integrasi pembayaran, dashboard berbasis role, timeline aktivitas pelanggan.
@@ -152,7 +150,7 @@ CRM dari nol: integrasi pembayaran, dashboard berbasis role, timeline aktivitas 
 <td valign="top">
 
 ![INTERNAL](https://img.shields.io/badge/INTERNAL-0891b2?style=flat-square)<br/>
-**🔎 LOOKUP IP** — Internal Tools<br/>
+**LOOKUP IP** — Internal Tools<br/>
 <sub>BIS Data · 2024</sub>
 
 Pelacak IP, geolokasi & data jaringan perangkat; maintenance infrastruktur AWS.
@@ -163,27 +161,17 @@ Pelacak IP, geolokasi & data jaringan perangkat; maintenance infrastruktur AWS.
 </tr>
 </table>
 
-<p align="center"><sub>➕ <b>10+ proyek lainnya</b> di balik layar — lihat <a href="https://suhilman.github.io/SUHILMANartz">portfolio</a></sub></p>
+<p align="center"><sub><b>10+ proyek lainnya</b> di balik layar — lihat <a href="https://suhilman.github.io/SUHILMANartz">portfolio</a></sub></p>
 
 <!-- ===================== SKILLS ===================== -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26"/> Core Skills
+### Core Skills
 
 <p align="center">
   <img src="assets/skills.svg" width="100%" alt="React/Next.js/Vue.js 90%, Dart/Flutter/Frog 80%, PostgreSQL/MySQL/MongoDB 78%, UI/UX Figma 75%, Laravel/Node.js/PHP 65%, Swift/React Native 60%"/>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26"/> Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,flutter,dart,js,ts,nodejs,express,laravel,php,swift&perline=12" alt="frontend & languages"/>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,cloudflare,materialui,tailwind,vuetify,figma,github&perline=12" alt="data, infra & tools"/>
-  </a>
-</p>
-
 <!-- ===================== GITHUB STATS ===================== -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="26"/> GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Suhilman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
@@ -204,7 +192,7 @@ Pelacak IP, geolokasi & data jaringan perangkat; maintenance infrastruktur AWS.
 </p>
 
 <!-- ===================== CONTACT / QR ===================== -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="26"/> Let's build something
+### Let's build something
 
 <table>
 <tr>
